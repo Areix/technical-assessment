@@ -13,10 +13,16 @@ Areix Ledger is a mobile app which records the user expenses and create an analy
 # Task
 Build a frontend page with filter which allow users to filter and see expenses.
 
-![s1](img/Screenshot1.png)
+<img src="img/Screenshot1.png" width="281" height="609">
+<img src="img/Screenshot2.png" width="281" height="609">
 
-![s2](img/Screenshot2.png)
+<!-- ![s1](img/Screenshot1.png)
 
-- when user create a new expense record, the expense record list page will update and display new record
-- 
+![s2](img/Screenshot2.png) -->
+
+- When user create a new expense record, the expense record list page will update and display new record
+- Implement the sorting and filtering in the frontend. 
+    1. Filter by `category`
+    2. Sort by `created_at`
+    3. Filter by month (refer to `created_at`)
 

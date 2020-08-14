@@ -59,7 +59,9 @@ Output: 6
 ```
 
 # Task 3 - Machine Learning
-Build a machine learning model to predict the the label. Please implement the data pre-processing and data visualizaion before training the model. And answering the following questions:
+Build a machine learning model to predict the the label. Please implement the data pre-processing and data visualizaion before training the model. The training set and test set are provided. Please complete this either in jupyter notebook or google colab and enclose the link in your README.md file.
+
+And you are required to answer the following questions:
 
 1. which methods perform the best? and why?
-
+2. 
