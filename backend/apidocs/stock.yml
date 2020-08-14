@@ -1,0 +1,86 @@
+Stock
+
+---
+tags:
+  - Stock API
+parameters:
+  - name: Authorization
+    in: header
+    schema:
+      type: bearer
+      example: Bearer yJraWQiOiJORTFJVzZEc2c...
+    required: true
+    description: user id token
+  - name: psid
+    in: path
+    schema:
+      type: string
+      example: 69904d92-b1f1-11ea-81a7-0a7a347b3dd5
+    required: true
+  # - name: sd
+  #   in: query
+  #   schema:
+  #     type: string
+  #     example: 1585267200
+  #   required: true
+  #   description: startDate in timestamp
+  # - name: ed
+  #   in: query
+  #   schema:
+  #     type: string
+  #     example: 1592787287
+  #   required: true
+  #   description: endDate in timestamp
+
+responses:
+  200:
+    description: Stock data will return
+    schema:
+      properties:
+        data:
+          type: object
+          properties:
+            ma200:
+              type: double
+              example: 342.765
+            ma50:
+              type: double
+              example: 224.423
+            forward_pe:
+              type: double
+              example: 0.765
+            forward_eps:
+              type: double
+              example: 0.423
+            didviden_yeild:
+              type: double
+              example: 0.423                              
+            xx_list:
+              type: array
+              items:
+                type: object
+                properties:
+                  start_date:
+                    type: string
+                    example: '2020-03-17'
+                  due_date:
+                    type: string
+                    example: '2021-03-17'
+                  amount:
+                    type: double
+                    example: 17000
+                  category:
+                    type: string
+                    example: Home
+
+        msg:
+          type: string
+          example: return stock data
+        error:
+          type: boolean
+          example: false
+        success:
+          type: boolean
+          example: true
+
+ 

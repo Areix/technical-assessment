@@ -1,0 +1,79 @@
+{
+   "expenses":{
+      "data":[
+         {
+            "record_id":"x10",
+            "name":"dinning in KFC",
+            "created_at":"2020-02-23",
+            "amount":221.23,
+            "category":"Home"
+         },
+         {
+            "record_id":"x11",
+            "name":"shopping in IKEA",
+            "created_at":"2020-08-23",
+            "amount":3213.23,
+            "category":"Home"
+         },
+         {
+            "record_id":"x12",
+            "name":"pay for the tax",
+            "created_at":"2020-04-23",
+            "amount":2213.23,
+            "category":"Financial"
+         },
+         {
+            "record_id":"x13",
+            "name":"buy an iphone 12 pro",
+            "created_at":"2020-05-23",
+            "amount":12213.23,
+            "category":"Leisure"
+         },
+         {
+            "record_id":"x14",
+            "name":"buy a Switch and game",
+            "created_at":"2020-07-02",
+            "amount":5213.23,
+            "category":"Leisure"
+         },
+         {
+            "record_id":"x15",
+            "name":"buy a gift2",
+            "created_at":"2020-04-03",
+            "amount":122.23,
+            "category":"Others"
+         },
+         {
+            "record_id":"x16",
+            "name":"buy a gift1",
+            "created_at":"2020-02-23",
+            "amount":1222.23,
+            "category":"Others"
+         },
+         {
+            "record_id":"x17",
+            "name":"buy a gift3",
+            "created_at":"2020-05-23",
+            "amount":7654.5,
+            "category":"Others"
+         },
+         {
+            "record_id":"x18",
+            "name":"pay for fee xx",
+            "created_at":"2020-06-18",
+            "amount":86.23,
+            "category":"Others"
+         },
+         {
+            "record_id":"x19",
+            "name":"pay for fee xx",
+            "created_at":"2020-06-12",
+            "amount":764.5,
+            "category":"Others"
+         }
+      ],
+      "error":false,
+      "success":true,
+      "msg":"successfully created..."
+   }
+}
