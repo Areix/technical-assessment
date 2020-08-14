@@ -8,14 +8,14 @@ Areix Ledger is a mobile app which records the user expenses and create an analy
 - State Management (IMPORTANT)
 - API Integration
     - If you completed the backend assessment, you could consider using your own API endpoints. This is highly recommended.
-    - Otherwise you could use our mock up API endpoint: https://my-json-server.typicode.com/Areix/technical-assessment/fronrend/expenses
+    - Otherwise you could use our mock up API endpoint: https://my-json-server.typicode.com/Areix/technical-assessment/expenses
 
 # Task
 Build a frontend page with filter which allow users to filter and see expenses.
 
-![s1]('/img/Screenshot1.png')
+![s1](img/Screenshot1.png)
 
-![s2]('/img/Screenshot2.png')
+![s2](img/Screenshot2.png)
 
 - when user create a new expense record, the expense record list page will update and display new record
 - 
