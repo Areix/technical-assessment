@@ -13,8 +13,7 @@ Areix Ledger is a mobile app which records the user expenses and create an analy
 # Task
 Build a frontend page with filter which allow users to filter and see expenses.
 
-<img src="img/Screenshot1.png" width="281" height="609">
-<img src="img/Screenshot2.png" width="281" height="609">
+<img src="img/Screenshot1.png" width="328" height="597" /><img src="img/Screenshot2.png" width="328" height="597" />
 
 <!-- ![s1](img/Screenshot1.png)
 
