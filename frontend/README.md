@@ -13,9 +13,9 @@ Areix Ledger is a mobile app which records the user expenses and create an analy
 # Task
 Build a frontend page with filter which allow users to filter and see expenses.
 
-!(s1)['/img/Screenshot1.png']
+![s1]('/img/Screenshot1.png')
 
-!(s2)['/img/Screenshot2.png']
+![s2]('/img/Screenshot2.png')
 
 - when user create a new expense record, the expense record list page will update and display new record
 - 
