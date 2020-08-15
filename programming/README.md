@@ -5,7 +5,7 @@ This part of assessment aims at assessing candidates' knowledge in basic program
 # Task 1 - Dynamic Programming
 A carpenter has collected data on the satisfaction level of his `n` woodwork. Carpenter can make any woodwork in 1 unit of time.
 
-Like-time coefficient of a woodwork is defined as the time taken to make that woodwork including previous woodworks multiplied by its satisfaction level  i.e.  time[i]*satisfaction[i]
+Like-time coefficient of a woodwork is defined as the time taken to make that woodwork including previous woodworks multiplied by its satisfaction level  i.e.  `time[i] * satisfaction[i]`
 
 Return the maximum sum of Like-time coefficient that the carpenter can obtain after woodworks making.
 
