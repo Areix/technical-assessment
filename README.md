@@ -7,8 +7,8 @@
 - [Programming](programming)
 
 # Notes
-
-- You are required to complete at least 2 out of 3 tasks.
+- This assessment is to assess if the candidate(s) are technically capable of AREIX AI and application development, and further identify the best-fit of job matrix and pathway for the qualified candidates. There is only one technical assessment. 
+- You are highly recommended to complete at least 2 tasks.
 - You are required to create a github repo to contain your work.
 - You are required to write your README as if it was for a production service. Include the following items:
     - Description of the problem and solution.
