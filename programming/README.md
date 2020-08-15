@@ -52,11 +52,11 @@ Output: 6
 # Task 3 - Data Collection
 1. Please formulate an efficient plan to collect mutual fund data, and preferably program the codes in any preferred language. 
     - The methods to collect data:
-        1.Web scraping
-        2.APIs 
-        3.Any other methods that you are comfortable with.
-2.Please consolidate the data from at least 2 different data sources and integrate into one output with JSON format.
-3.Please briefly describe how you will deploy your work and schedule the work on monthly basis.
+        1. Web scraping
+        2. APIs 
+        3. Any other methods that you are comfortable with.
+2. Please consolidate the data from at least 2 different data sources and integrate into one output with JSON format.
+3. Please briefly describe how you will deploy your work and schedule the work on monthly basis.
 
 
 # Task 4 - Machine Learning
