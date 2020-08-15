@@ -1,7 +1,10 @@
 # Introduction
 
-Areix Ledger is a mobile app which records the user expenses and create an analytical view of user's expense. Other features include categorizing expenses, calculating and analyzing user expense and allows user to perform sorting and filtering.
+Areix Ledger is an expense tracking mobile application which records the user expenses and create an analytical view based on these expenses. Features include:
 
+- categorizing expenses
+- calculating and analyzing user expense
+- allows user to perform sorting and filtering
 
 # Requirements
 
@@ -312,7 +315,7 @@ API development, the detail has been illstrated in the below. Please don't negle
     None
 
 
-# Task 2 (Bonus point - Optional)
+# Task 2 (Bonus task)
 
 ## Mission 1
 Implement 3 new APIs to provide filtered or sorted result of expense records.
