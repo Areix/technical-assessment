@@ -1,3 +1,11 @@
+# Account Analysis
+
+Please examine XD file and build an mobile app using Flutter based on the design.
+
+The API you might need to implement for API integration. https://mcuhhxkn9e.execute-api.us-east-1.amazonaws.com/dev/networth/16888888
+
+### Deprecated Task
+<details><summary>xxx</summary>
 # Introduction
 
 Areix Ledger is an expense tracking mobile application which records the user expenses and creates an analytical view based on these expenses. Features include:
@@ -34,3 +42,4 @@ Build a frontend page which generate the bar/line/pie chart based on the user ex
 
 - The charts should be compatible with filtering 
 - The charts shoud be dynamic, whcih means once a new expense record is added, the charts are expected to change accordingly
+</details>
