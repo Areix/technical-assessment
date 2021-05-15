@@ -13,12 +13,21 @@
      - GET portfolio/\<psid\>/\<portfolioid\>
    - create portfolio
      - POST portfolio/\<psid\>
+       - name
+       - amount
+       - cash_balance
    - add product to portfolio
      - PUT portfolio/\<psid\>
+       - portfolio_id
+       - product_type: ['etf','term_deposit']
+       - product_id: please refer to the product api below
+       - amount
+       - cash_balance
    - delete portfolio
      - DELETE portfolio/\<psid\>/\<portfolioid\>
-
-Please note that the XD file, detail UI description, base url and psid will be send by email
+   - GET etfs
+   - GET termdeposits/en/\<psid\>
+Please note that the XD file, detail UI description, base url, api key and psid will be send by email
 
 
 ### Part 2 – Situational
