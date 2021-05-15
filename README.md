@@ -33,3 +33,5 @@ The aspects of your code we will assess include:
 - **Security**: are there any obvious vulnerability?
 - **Production-readiness**: does the code include monitoring(optional)? logging? proper error handling?
 
+
+ Please contact us at hellohk@areix-ai.com should you face any difficulties. If we do not receive your response by the deadline, we will regard this as your wish to withdraw your application.

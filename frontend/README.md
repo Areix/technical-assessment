@@ -1,11 +1,56 @@
+### Portfolio
+#### Required Deliverables: 
+
+##### Part 1 – Technical
+
+1. Use Flutter to build the UI in the XD file
+2. Animate graphics in UI with the use of your creativity
+3. Build a UI features walkthrough for first-time onboarding
+4. State Management (**IMPORTANT**)
+5. API Integration
+   - get portfolio list: 
+     - GET portfolio/\<psid\>
+   - get portfolio detail: 
+     - GET portfolio/\<psid\>/\<portfolioid\>
+   - create portfolio
+     - POST portfolio/\<psid\>
+   - add product to portfolio
+     - PUT portfolio/\<psid\>
+   - delete portfolio
+     - DELETE portfolio/\<psid\>/\<portfolioid\>
+
+Please note that the XD file, detail UI description, base url and psid will be send by email
+
+
+##### Part 2 – Situational
+There are 4 key functional features within the app: 
+1. Home & Reward; 
+2. Expense & Account; 
+3. Budget & Goal; 
+4. Marketplace & Portfolio. 
+
+Given that the XD file is just 10% of the entire project. While 90% of the app is being completed at a functional stage, what is your plan of action to health-check the entire app before the app will be undergone a penetration test by an external auditing firm. For us to better understand your project handling skills and methodology, you could make fair-assumption on the priority and complexity. The plan shall at least cover the action items in upcoming 30 days.
+
+Manpower: 1 Backend developer & 1-2 Junior software developer interns
+
+1. Word/ PPT/ Excel that you find it better to illustrate the plan
+2. A plan of action that for the app pre-launch, launch, post-launch
+3. (Optional) CI/CD
+ 
+
+
+### Deprecated Task1
+<details><summary> </summary>
 # Account Analysis
 
 Please examine XD file and build an mobile app using Flutter based on the design.
 
-The API you might need to implement for API integration. https://mcuhhxkn9e.execute-api.us-east-1.amazonaws.com/dev/networth/16888888
+The API you might need to implement for API integration. GET networth/\<psid\>
 
-### Deprecated Task
-<details><summary>xxx</summary>
+</details>
+
+### Deprecated Task2
+<details><summary> </summary>
 # Introduction
 
 Areix Ledger is an expense tracking mobile application which records the user expenses and creates an analytical view based on these expenses. Features include:
