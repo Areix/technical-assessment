@@ -1,7 +1,6 @@
-### Portfolio
-#### Required Deliverables: 
+## Required Deliverables: 
 
-##### Part 1 – Technical
+### Part 1 – Technical
 
 1. Use Flutter to build the UI in the XD file
 2. Animate graphics in UI with the use of your creativity
@@ -22,7 +21,7 @@
 Please note that the XD file, detail UI description, base url and psid will be send by email
 
 
-##### Part 2 – Situational
+### Part 2 – Situational
 There are 4 key functional features within the app: 
 1. Home & Reward; 
 2. Expense & Account; 
