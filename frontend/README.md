@@ -27,6 +27,8 @@
      - DELETE portfolio/\<psid\>/\<portfolioid\>
    - GET etfs
    - GET termdeposits/en/\<psid\>
+
+
 Please note that the XD file, detail UI description, base url, api key and psid will be send by email
 
 
