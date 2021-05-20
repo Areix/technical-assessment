@@ -18,7 +18,7 @@
     - Formulating an efficient plan where and how to host your application OR Link to the hosted application where applicable.
 - You will be highly considered if you could use the API endpoints which you have built in the backend assessment and impletement into the frontend assessment. 
 - You will be highly considered if you could successfully complete all the 3 assessments. 
-- Once you complete your work, please send your repo link to our email hellohk@areix-ai.com
+- Once you complete your work, please send your repo link to our email careers-apac@areix-ai.com 
 
 # How we review
 Your application will be reviewed by one or more of our engineers. We value quality over feature-completeness. It is fine to skip certain features aside provided you mention them out in your project's README.
@@ -34,4 +34,4 @@ The aspects of your code we will assess include:
 - **Production-readiness**: does the code include monitoring(optional)? logging? proper error handling?
 
 
- Please contact us at hellohk@areix-ai.com should you face any difficulties. If we do not receive your response by the deadline, we will regard this as your wish to withdraw your application.
+ Please contact us at careers-apac@areix-ai.com  should you face any difficulties. If we do not receive your response by the deadline, we will regard this as your wish to withdraw your application.
